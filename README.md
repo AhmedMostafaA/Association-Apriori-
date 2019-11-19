@@ -13,7 +13,7 @@ b.	Outputs
     ii.	The strong association rules that satisfy both the minimum support and minimum confidence threshold.
     iii.All saved in text file (per.txt)
     
-c.	General Requirements:
+c.	General Notes:
     i.	The program enable the user to select the file needed to be analyzed, 
     ii.	The interface enable user to select the percentage of the data needed to be read from the input file e.g. if the file  
           contains 100 records, and the user needs to read 70% of the file then the analysis should be done on 70 records only.
